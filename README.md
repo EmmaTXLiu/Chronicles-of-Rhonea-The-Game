@@ -15,7 +15,7 @@ Visual novel, simple 3rd-person hack-and-slash game
 
 The current commit is for build vA0.8.
 
-#### An online demo for this project will be available soon.
+#### An online demo will be available soon.
 
 
  
