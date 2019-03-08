@@ -1,5 +1,6 @@
 # Chronicles-of-Rhonea-The-Game
 Visual novel, simple 3rd-person hack-and-slash game
+
 INCOMPLETE/IN PROGRESS
 
 
